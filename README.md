@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Mark 👋
 
-<!--
-**nxrth1/nxrth1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geospatial Engineer & Founder @ [ZeroPoint Geospatial](https://github.com/nxrth1) — Nairobi, Kenya 🇰🇪
 
-Here are some ideas to get you started:
+- 🛰️ Building geospatial backend systems with **PostGIS**, **DuckDB**, and **FastAPI**
+- 🗺️ Cartography, RTK/GPS field surveys, and UAV photogrammetry
+- 🌍 Currently building **Groundtruth** — a geospatial digital magazine & map gallery
+- 📡 GEE, ArcGIS Pro, QGIS, GeoPandas
+- ✍️ Writing on [Substack](#) — personal essays + photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Stack**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nxrth1&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxrth1&layout=compact&theme=radical&hide_border=true)
+
+---
+
+📫 Reach me: **[email]** · [LinkedIn](#) · [Substack](#)
