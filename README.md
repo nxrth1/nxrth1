@@ -4,7 +4,7 @@ Geospatial Engineer & Founder @ [ZeroPoint Geospatial](https://github.com/nxrth1
 
 - 🛰️ Building geospatial backend systems with **PostGIS**, **DuckDB**, and **FastAPI**
 - 🗺️ Cartography, RTK/GPS field surveys, and UAV photogrammetry
-- 🌍 Currently building **Groundtruth** — a geospatial digital magazine & map gallery
+- 🌍 Currently building **Ground Truth** — a geospatial digital map gallery
 - 📡 GEE, ArcGIS Pro, QGIS, GeoPandas
 - ✍️ Writing on [Substack](#) — personal essays + photography
 
