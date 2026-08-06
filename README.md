@@ -21,7 +21,7 @@ Geospatial Engineer & Founder @ [ZeroPoint Geospatial](https://github.com/nxrth1
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nxrth1&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nxrth1&show_icons=true&theme=tokyonigh&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxrth1&layout=compact&theme=radical&hide_border=true)
 
 ---
